@@ -1,2 +1,2 @@
-const text = require("./exportFunction");
-console.log(text);
+const textF = require("./exportFunction");
+
